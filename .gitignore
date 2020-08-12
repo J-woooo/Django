@@ -1,0 +1,6 @@
+# ignore json file
+*.json
+
+#ignore txt file
+*.txt
+
